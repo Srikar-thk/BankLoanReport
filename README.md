@@ -39,7 +39,7 @@ Reviewed detailed domain knowledge documentation on banking loan procedures, app
 
 
 2. Data Extraction and Detailed SQL Query Development
-   Developed and executed advanced SQL queries, including:
+Developed and executed advanced SQL queries, including:
 
 Aggregation queries (COUNT, SUM, AVG) for calculating total applications, total funded amounts, and collected payments.
 
