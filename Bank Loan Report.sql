@@ -1,3 +1,11 @@
+/*
+Srikar Thakkallapally
+Bank Loan Report 
+
+Skills used: Aggregate Functions (COUNT, SUM, AVG) for KPI calculations, Conditional Aggregation (CASE WHEN) for Good/Bad loan segmentation
+
+*/
+
 Select *
 from bankloan_db.financial_loan;
 
@@ -179,7 +187,7 @@ FROM bankloan_db.financial_loan
 GROUP BY home_ownership
 ORDER BY home_ownership;
 
--- 
+
 
 
 
